@@ -14,7 +14,6 @@ export function Welcome() {
         <Text style={styles.subtitle}>Tenha cupons de vantagem para usar em {"\n"} 
         seus estabelecimentos favoritos.
         </Text>
-
     </View>
   );
 }

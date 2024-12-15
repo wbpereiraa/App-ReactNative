@@ -13,7 +13,7 @@ export function Steps() {
             <Step 
             icon={IconMapPin}
             title="Encontre estabelecimentos"
-            description="Veja locais perto de vocÊ que são parceiros Nearby"/>
+            description="Veja locais perto de você que são parceiros Nearby"/>
 
             <Step 
             icon={IconQrcode}
